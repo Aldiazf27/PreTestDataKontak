@@ -2,6 +2,6 @@
 $host = "localhost";
 $username = "root";
 $password = "";
-$dbname = "apk_data_kontak";
+$dbname = "asasas";
 
 $conn = mysqli_connect($host, $username, $password, $dbname);
